@@ -16,19 +16,19 @@ public class VBalok {
         
     }
     
-   protected void setPanjang(double Pj){
+   private void setPanjang(double Pj){
         
         this.pj=Pj;
         
     }
     
-    public void setLebar(double Lb){
+    private void setLebar(double Lb){
         
         this.lb=Lb;
         
     }
     
-    public void setTinggi (double Tg){
+    private void setTinggi (double Tg){
         
         this.tg=Tg;
         
